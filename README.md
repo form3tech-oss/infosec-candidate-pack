@@ -23,7 +23,7 @@ A chat with your friendly neighbourhood cyber recruiters - this is to get to kno
 
 **Technical challenge** 🏡 <br>
 This is your chance to showcase your technical prowess, we use the results to determine where we think you would be best suited within the team.\
-Depending on the role you are interested in, you will receive either our [security technical challenge](https://github.com/form3tech-oss/security-interview) or our [information security technical challenge](https://github.com/form3tech-oss/innsecure).\
+Depending on the role you are interested in, you will receive either our [offensive security challenge](https://github.com/form3tech-oss/security-interview) or our [security engineering challenge](https://github.com/form3tech-oss/innsecure).\
 Please do not attempt either of these exercises until you have spoken with a member of Form3's Talent Team.
 
 **Video interview with our CSEs** 🎥 <br>
