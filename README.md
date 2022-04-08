@@ -33,7 +33,7 @@ You will go over the challenge, explaining your thoughts, reasoning and methods 
 The last stage is a chat with our CISO, this is your opportunity to as any final questions you have thought of through out the process and also gain further insights to what you will be doing here at Form3.
 
 ## Learn more about us! 🙌
-Read more about all things engineering on our [engineering site](https://engineering.form3.tech/about/) and at [@Form3Tech on Twitter 🐦 ](https://twitter.com/Form3Tech).
+Read more about all things engineering on our [engineering site](https://www.form3.tech/engineering) and at [@Form3Tech on Twitter 🐦 ](https://twitter.com/Form3Tech).
 
 Have a look at these other pages for more interviewing details:
 - **[Visa sponsorship](./pages/visa-sponsorship.md)** 🛫
