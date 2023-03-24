@@ -12,8 +12,8 @@ Why? Because we share an unwavering belief in an API driven payment future.
 We are expanding the Security Engineering team extensively, meaning that there are many skill-sets and experiences required. Your place within the team will depend on your individual strengths and interests.
 
 You can read more about the roles and responsibilities available on our team:
-- **[Cloud security engineers(CSEs)](./roles/cse.md)**
-- **[Ethical hackers](./roles/ethical_hacker.md)**
+- **[Defensive Engineering](./roles/cse.md)**
+- **[Offensive Security Engineering](./roles/ethical_hacker.md)**
 - **[Information security officers(ISOs)](./roles/iso.md)**
 
 ## How we interview 🤝
@@ -21,16 +21,16 @@ You can read more about the roles and responsibilities available on our team:
 **Phone Screen** ☎️ <br> 
 A chat with your friendly neighbourhood cyber recruiters - this is to get to know you, what you are interested in, what you've done and what you are looking to do!
 
-**Technical challenge** 🏡 <br>
+**Technical challenge - For DE and OffSec** 🏡 <br>
 This is your chance to showcase your technical prowess, we use the results to determine where we think you would be best suited within the team.\
 Depending on the role you are interested in, you will receive either our [offensive security challenge](https://github.com/form3tech-oss/security-interview) or our [security engineering challenge](https://github.com/form3tech-oss/innsecure).\
 Please do not attempt either of these exercises until you have spoken with a member of Form3's Talent Team.
 
-**Video interview with our CSEs** 🎥 <br>
+**Video interview with our Teams** 🎥 <br>
 You will go over the challenge, explaining your thoughts, reasoning and methods with our engineers, this is also your opportunity to ask the engineers what life at Form3 is like and also what you are interested in.
 
-**Chat with our CISO** 🎥 <br>
-The last stage is a chat with our CISO, this is your opportunity to as any final questions you have thought of through out the process and also gain further insights to what you will be doing here at Form3.
+**Chat with our Heads of Units or CISO** 🎥 <br>
+The last stage is a chat with our management team, this is your opportunity to as any final questions you have thought of through out the process and also gain further insights to what you will be doing here at Form3.
 
 ## Learn more about us! 🙌
 Read more about all things engineering on our [engineering site](https://www.form3.tech/engineering) and at [@Form3Tech on Twitter 🐦 ](https://twitter.com/Form3Tech).
