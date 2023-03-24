@@ -31,6 +31,8 @@ Check out some of the blogs from our team:
 
 [Exploiting Distroless Images](https://www.form3.tech/engineering/content/exploiting-distroless-images)
 
+[Adventures into Electron code injection on MacOS](https://www.form3.tech/engineering/content/electron-injection) 
+
 Here is an episode of our [.tech](https://techpodcast.form3.tech/) podcast focusing on the [Security Scanning tool tfsec](https://www.form3.tech/engineering/content/security-scanning-using-tfsec). 
 
 [Conf42 presentation](https://www.conf42.com/DevSecOps_2021_Adelina_Simion_Ross_McFarlane_custom_Code_Insight_tool_Form3) on our internal Code Insifgt tool
